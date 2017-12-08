@@ -38,12 +38,12 @@ public class InitCoreConfigListener implements ApplicationListener<ContextRefres
 	public void onApplicationEvent(ContextRefreshedEvent event) {
 		// TODO Auto-generated method stub
 		
-		if(event.getApplicationContext().getParent() == null){
-			 
+		if(event.getApplicationContext().getParent() == null) {
+
 //			initCoreConfig();
-		
-		
-	     }
+
+
+		}
 		
 		
 	}
