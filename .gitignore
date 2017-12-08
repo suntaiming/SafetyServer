@@ -41,4 +41,5 @@ buildNumber.properties
 
 # idea 相关忽略文件
 out/
-.idea/
+.idea/workspace.xml
+
