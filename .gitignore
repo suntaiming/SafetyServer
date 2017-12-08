@@ -1,4 +1,4 @@
-#java��غ����ļ�
+#java?????????
 
 # Compiled class file
 *.class
@@ -24,14 +24,14 @@
 hs_err_pid*
 
 
-# maven ��غ����ļ�
+# maven ?????????
 target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
-dependency-reduced-pom.xml
+dependency-reduced-pom.xml15:20 
 buildNumber.properties
 .mvn/timing.properties
 
@@ -39,8 +39,7 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 
-# idea ��غ����ļ�
+# idea ?????????
 out/
 .idea/workspace.xml
-
 
